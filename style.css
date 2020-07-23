@@ -1,0 +1,106 @@
+/* Chapter 38 TO 42 Question 02 */
+.container{
+    padding-top: 250px;
+}
+.card{
+    border: 2px solid black !important;
+    width: 200px;
+}
+
+
+/* Chapter 38 TO 42 Question 03 */
+
+/* .table{
+    width: 600px !important;
+    border: 2px solid black;
+    margin: auto;
+    
+}
+.del{
+    background-color: red;
+    text-align: center;
+    color: white;
+    margin: 2px;    
+}
+.del:hover{
+    background-color: black;
+    color: white;
+} */
+
+
+/* Chapter 38 TO 42 Question 05 */
+
+/* div{
+    margin: auto;
+    width: 20%;
+}
+
+input, button{
+    padding: 10px;
+    display: inline-block;
+} */
+
+/* Chapter 49 TO 52 Question 02 */
+
+/* .paragraph{
+    padding: 100px;
+} */
+
+
+/* Chapter 53 TO 58 Question 01 */
+
+html , body{
+    height: 100%;
+}
+
+.gallary{
+    padding-left: 10%;
+    padding-top: 100px;
+    margin: auto;
+}
+
+.gallary img{
+    width: 300px;
+    height: 250px;
+}
+
+/* .modal-a{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgba(0, 0, 0, 0.452);
+    height: 100%;
+    
+    
+}
+
+.modal-a img{
+    width: 600px;
+    height: 350px;
+} */
+
+/* .modelim{
+    display: block;
+    justify-content: center;
+    align-items: center;
+    background-color: rgba(0, 0, 0, 0.452);
+    height: 100%;
+
+}
+
+.modelim img{
+    width: 600px;
+    height: 350px;
+    
+
+} */
+
+
+/* Chapter 53 TO 58 Question 02 */
+
+/* .zoomin{
+    font-size: 30px;
+}
+.zoomout{
+    font-size: 20px;
+} */
